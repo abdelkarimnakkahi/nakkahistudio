@@ -1,8 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
-/* :root{
-    --first-color: #00316e;
-    --second-color: #00224b;
-} */
 
 body {
     background: #0B1741;
@@ -32,7 +28,7 @@ html {
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: #0f33ff;
+    background: #00B1E5;
 }
 
 /* Handle */
@@ -187,8 +183,8 @@ nav ul li:last-child {
     top: -1.5rem;
     left: 0;
     width: 5rem;
-    height: .1rem;
-    background: #0f33ff;
+    height: .15rem;
+    background: #00B1E5;
 }
 
 .content p {
@@ -212,7 +208,7 @@ nav ul li:last-child {
 }
 
 .btn::after {
-    background: #0f33ff;
+    background: #00B1E5;
     content: '';
     position: absolute;
     bottom: 0;
@@ -391,7 +387,7 @@ h5 {
 }
 
 .contact-btn {
-    border: 1px solid #0f33ff;
+    border: 1px solid #00B1E5;
 }
 
 .contact-btn::after {
@@ -500,7 +496,6 @@ footer .container {
     .menu {
         display: block;
         cursor: pointer;
-        filter: invert(1);
         z-index: 30;
     }
 
