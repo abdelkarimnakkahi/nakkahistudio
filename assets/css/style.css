@@ -277,7 +277,7 @@ h5 {
 
 .techs li::before {
     content: "\2713";
-    color: #0f33ff;
+    color: #00B1E5;
     font-weight: bold;
     display: inline-block;
     width: 1em;
