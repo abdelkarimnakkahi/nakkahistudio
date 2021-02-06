@@ -67,7 +67,7 @@ sliders.forEach(slider => {
 const sr = ScrollReveal({
   distance: '1rem',
   duration: 1800,
-  reset: true
+  reset: false
 });
 
 sr.reveal('.card', {

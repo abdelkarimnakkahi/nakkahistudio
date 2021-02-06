@@ -344,11 +344,6 @@ h5 {
     height: 100%;
 }
 
-.card:last-child {
-    align-self: flex-end;
-    border-radius: 0;
-}
-
 .info {
     position: absolute;
     top: 0;
@@ -375,7 +370,7 @@ h5 {
     bottom: -100rem;
     padding: .5rem 1rem;
     transition: bottom .5s ease-in-out;
-    background: rgb(9, 18, 53, .75);
+    background: rgb(9, 18, 53, .95);
 }
 
 .description ul{
