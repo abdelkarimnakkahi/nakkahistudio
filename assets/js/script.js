@@ -66,7 +66,7 @@ sliders.forEach(slider => {
 
 const sr = ScrollReveal({
   distance: '1rem',
-  duration: 1800,
+  duration: 1500,
   reset: false
 });
 
@@ -84,3 +84,10 @@ sr.reveal('.message-info', {
   origin: 'right',
   interval: 200
 });
+
+// Get Current Year
+
+const fullYear = new Date();
+const currentYear = fullYear.getFullYear();
+
+document.querySelector('.current-year').textContent = currentYear;
