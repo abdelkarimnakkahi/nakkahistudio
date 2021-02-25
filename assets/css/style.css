@@ -405,12 +405,12 @@ h5 {
     width: 0;
 }
 
-.message {
-    flex: 2;
+.message,
+.message-info {
+    flex: 3;
 }
 
 .message-info {
-    flex: 3;
     background: var(--dark-blue);
     height: 100%;
 }
