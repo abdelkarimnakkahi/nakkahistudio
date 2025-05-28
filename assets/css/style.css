@@ -322,6 +322,11 @@ h5 {
   gap: 3rem;
 }
 
+.cards img{
+   max-height: 535px;
+   display: block;
+}
+
 .card {
   border-radius: 0.5rem;
   overflow: hidden;
@@ -568,7 +573,6 @@ footer .container {
 
   .cards img{
     max-height: 400px;
-    display: block;
   }
 
   h2 {
