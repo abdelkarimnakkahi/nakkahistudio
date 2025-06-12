@@ -3,6 +3,8 @@
 ## Overview  
 This is my personal portfolio website showcasing my skills, projects, and contact information.
 
+![Portfolio Screenshot](assets/images/demo.png)
+
 ## Technologies Used  
 - HTML  
 - CSS  
