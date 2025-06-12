@@ -196,16 +196,6 @@ nav ul li:last-child {
   align-self: flex-start; /* move to bottom */
 }
 
-#showcase h1::before {
-  content: "";
-  position: absolute;
-  top: -1.5rem;
-  left: 0;
-  width: 5rem;
-  height: 0.15rem;
-  background: var(--light-blue);
-}
-
 .content{
   align-self: flex-end; /* move to bottom */
 }
