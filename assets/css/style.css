@@ -143,12 +143,12 @@ nav ul {
 }
 
 nav ul li a {
-  color: #fff;
+  color: #ddd;
   transition: color 0.3s ease-in-out;
 }
 
 nav ul li a:hover {
-  color: #ddd;
+  color: #fff;
 }
 
 nav ul li {
